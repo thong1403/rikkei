@@ -28,7 +28,7 @@ export let setActiveScreen = (screenName) => {
           setActiveScreen("dangky");
         });
         const nutDangKy = document.getElementById("chu1");
-        button.addEventListener("click", function () {
+        nutDangKy.addEventListener("click", function () {
           setActiveScreen("registerPages");
         });
       }
