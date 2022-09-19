@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.diss-to{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+   
+}
+.diss-to .fader{
+    width: 300px;
+    height: 600px;
+    margin: auto;
+    padding-top: 20px;
+ 
+}
+.diss-to .img{
+    width: 150px;
+}
+.diss-to .pots-chi{
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.diss-to .bost{
+    /* margin-top: 20px; */
+    border: 2px solid rgb(213, 213, 213);
+    height: 500px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.bost .input-one{
+    width: 250px;
+    height: 35px;
+    border: 2px solid rgb(208, 205, 205);
+    border-radius: 5px;
+    padding-left: 10px;
+
+}
+.bost .chu3{
+    padding: 10px;
+    float: left;
+    font-size: 20px;
+}
+.bost .dangky{
+    margin: 10px;
+    padding:7px;
+    border: 1px solid red;
+    background-color: rgb(174, 32, 32);
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.diss-to .pewpew{
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid rgb(224, 221, 221);
+    border-radius: 5px;
+}
+#first-name{
+    color: red;
+    font-size: 20px;
+}
+#lastName{
+    color: red;
+    font-size: 20px;
+}
+#email-address{
+    color: red;
+    font-size: 20px;
+}
+#passworld-one{
+    color: red;
+    font-size: 20px;
+}
+#confirm-passworld{
+    color: red;
+    font-size: 20px;
+}
